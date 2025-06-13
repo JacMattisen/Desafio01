@@ -4,10 +4,9 @@ Este desafio teve como proposta a criação da minha **primeira Landing Page ins
 
 📌 Para isso, inseri os elementos mais importantes que compõem um site moderno, como:
 
-- Um cabeçalho com logotipo e menu de navegação
+- Um cabeçalho com logotipo 
 - Uma seção de destaque com imagem/banner
 - Uma descrição clara do projeto
-- Botões de chamada para ação (CTAs)
 - E um rodapé com informações complementares
 
 🎯 Esse projeto faz parte do **primeiro desafio do Bootcamp do Santander 2025 da [DIO.me](https://dio.me/)**. Foi uma excelente oportunidade para colocar em prática os conhecimentos iniciais de estruturação com HTML e estilização com CSS.
